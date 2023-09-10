@@ -1,4 +1,4 @@
-if host_machine.system() == 'darwin'
+https://github.com/Tamaloco81/element/blob/https/youtu.be/Ztav8NoFPLc/plugins/effect/au/meson.buildif host_machine.system() == 'darwin'
 
 element_fx_au_juce_args = [
     '-DJucePlugin_Build_AU=1', 
