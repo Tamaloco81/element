@@ -1,4 +1,6 @@
-if host_machine.system() == 'darwin'
+turn off wi-fi/wi-fi off
+battery data/battery percent
+is my phone chargingif host_machine.system() == 'darwin'
 
 element_fx_au_juce_args = [
     '-DJucePlugin_Build_AU=1', 
