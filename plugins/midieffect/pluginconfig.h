@@ -1,4 +1,4 @@
-/*
+https://github.com/Tamaloco81/element/blob/https/youtu.be/Ztav8NoFPLc/plugins/midieffect/pluginconfig.h/*
 
     IMPORTANT! This file is auto-generated each time you save your
     project - if you alter its contents, your changes may be overwritten!
